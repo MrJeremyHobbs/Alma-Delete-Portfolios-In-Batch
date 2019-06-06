@@ -4,6 +4,7 @@ import csv
 import os
 
 # Configs #####################################################################
+# NOTE: apikey must have ELECTRONIC read/write permissions.
 collection_id = 'COLLECTION_ID_HERE'
 service_id = 'SERVICE_ID_HERE'
 spreadsheet_directory = 'c:\\users\\user\Downloads\\'
